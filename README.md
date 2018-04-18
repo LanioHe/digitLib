@@ -3,6 +3,7 @@ DigitLib 阿拉伯数字与中文数字的转换、阿拉伯数字与中文数�
 
 ###
 
+<pre>
   var digitLib = DigitLib();
  
   阿拉伯数字转中文数字,
@@ -31,4 +32,4 @@ DigitLib 阿拉伯数字与中文数字的转换、阿拉伯数字与中文数�
   @param {string} letter
   digitLib.ltToArabic(letter)
   a/A => 0
-
+</pre>
